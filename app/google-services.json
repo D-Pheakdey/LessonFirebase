@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "23585971857",
+    "firebase_url": "https://fir-lesson-1cade-default-rtdb.firebaseio.com",
+    "project_id": "fir-lesson-1cade",
+    "storage_bucket": "fir-lesson-1cade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23585971857:android:fb8a5bdf68804e5870e930",
+        "android_client_info": {
+          "package_name": "com.example.firebase_and"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0W1a_yH9l8TzTe2BxnSJpaAc1FF4BVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
